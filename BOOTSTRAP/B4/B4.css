@@ -1,0 +1,55 @@
+.Form
+{
+    width:500px;
+    height:auto;
+    background: white;
+    padding:20px;
+    margin:8% auto 0;
+    text-align: center;
+    border: solid 2px;
+    border-color: black;
+    
+}
+
+.head
+{
+    text-align: center;
+}
+.text
+{
+    text-align: center;
+}
+.input-box
+{
+    
+    padding:8px;
+    margin:10px 0;
+    width:99%;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 0px;
+    background-color: white;
+    outline:none;
+
+}
+
+
+.btn-primary
+{
+    background-color:gray ;
+    color:white;
+    margin-top: 10px;
+    cursor:pointer;
+    outline: none;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    
+}
+
+    
+   
+
+
+    
+    
